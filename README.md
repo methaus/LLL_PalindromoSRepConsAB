@@ -7,3 +7,6 @@ b) Identifique e explique a LLC gerada pela GLC construída.
 
 c) Discuta as propriedades da GLC e da LLC encontradas na sua atividade.
    A maquina utiliza recursão para aplicar as regras de produção da GLC em cada caractere da string até que a string final seja gerada. O parâmetro limite é uma condição de parada que limita o tamanho da string de saída para a geração recursiva. Ela é não-ambigua devido a definição de "§" para derivação à esquerda.
+
+Referência do Estudo Dirigido:
+RAMOS, Marcus Vinícius Midena; DE COMPUTAÇÃO UNIVASF, Engenharia. Linguagens Formais e Autômatos. Apostila do Curso de Engenharia de, 2008.
